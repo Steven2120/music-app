@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <CartPage />
-      <HomePage />
+      {/* <HomePage /> */}
     </>
   );
 }

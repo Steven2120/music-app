@@ -5,7 +5,7 @@ import Layout from "../Layout/Layout";
 const HomePage = () => {
   return (
     <Layout>
-      <Box sx={{ height: "500px" }}>Main Content</Box>
+      <Box sx={{ height: "500px", p: 6 }}>Main Content</Box>
     </Layout>
   );
 };
