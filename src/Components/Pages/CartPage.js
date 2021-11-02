@@ -5,7 +5,7 @@ import Layout from "../Layout/Layout";
 const CartPage = () => {
   return (
     <Layout>
-      <Box sx={{ p: 4 }}>Imagine this is the shopping cart page</Box>
+      <Box sx={{ m: 5 }}>Imagine this is the shopping cart page</Box>
     </Layout>
   );
 };
